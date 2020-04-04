@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benedetta"
 title_separator          : "-"
 name                     : &name "Benedetta Nicolai"
-description              : &description "personal description"
+description              : &description "università della vita"
 url                      : https://BenedettaN/Benedetta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BenedettaN/Benedetta.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "fainatemeraria@hotmail.it"
   generatedFields:
     date:
       type               : "date"
